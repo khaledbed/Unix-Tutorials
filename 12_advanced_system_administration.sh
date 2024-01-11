@@ -89,5 +89,5 @@ echo "49. Explore advanced routing and network protocols (BGP, OSPF):"
 # Setup and configure BGP or OSPF in a lab environment
 echo "-------------------------------------------------------------"
 
-# End of Further Extended Advanced System Administration Tutorial
-echo "End of Further Extended Advanced System Administration Tutorial"
+# End of Tutorial
+echo "End of Tutorial"
