@@ -67,5 +67,5 @@ echo "11. Filter unique lines based on a specific field:"
 awk '!seen[$1]++' data_with_duplicates.txt
 echo "---------------------------------------------"
 
-# End of Further Extended Text Manipulation Tutorial
-echo "End of Further Extended Text Manipulation Tutorial"
+# End of Tutorial
+echo "End of Tutorial"
