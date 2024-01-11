@@ -94,5 +94,5 @@ echo "19. Build the Debian package:"
 dpkg-deb --build packagename-version
 echo "-------------------------------------------------------------"
 
-# End of Advanced Package Management Tutorial
-echo "End of Advanced Package Management Tutorial"
+# End of Tutorial
+echo "End of Tutorial"
