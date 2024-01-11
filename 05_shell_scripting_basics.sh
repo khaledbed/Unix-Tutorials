@@ -104,5 +104,6 @@ echo "21. Use command substitution in a script:"
 echo -e "#!/bin/bash\n\ndate_var=\$(date)\necho \"Current date and time: \$date_var\"" > command_substitution.sh
 echo "---------------------------------------------"
 
-# End of Comprehensive Shell Scripting Tutorial
-echo "End of Comprehensive Shell Scripting Tutorial"
+
+# End of Tutorial
+echo "End of Tutorial"
