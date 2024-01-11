@@ -165,5 +165,6 @@ echo "40. Limit access to files and directories with Access Control Lists (ACLs)
 setfacl -m u:username:rw file
 echo "-------------------------------------------------------------"
 
-# End of Comprehensive System Management Tutorial
-echo "End of Comprehensive System Management Tutorial"
+
+# End of Tutorial
+echo "End of Tutorial"
