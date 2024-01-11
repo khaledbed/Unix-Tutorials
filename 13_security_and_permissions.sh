@@ -122,5 +122,5 @@ echo "26. Conduct periodic security training and awareness programs:"
 # Train users on security practices and awareness
 echo "-------------------------------------------------------------"
 
-# End of Advanced Security and Permissions Tutorial
-echo "End of Advanced Security and Permissions Tutorial"
+# End of Tutorial
+echo "End of Tutorial"
