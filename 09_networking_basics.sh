@@ -102,5 +102,6 @@ echo "23. Identify network performance issues with iperf (replace HOST):"
 iperf -c HOST
 echo "-------------------------------------------------------------"
 
-# End of Advanced Networking Tutorial
-echo "End of Advanced Networking Tutorial"
+
+# End of Tutorial
+echo "End of Tutorial"
