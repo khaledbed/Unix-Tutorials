@@ -80,5 +80,5 @@ echo "15. Repeat a command from history (replace X with the desired command numb
 !X
 echo "---------------------------------------------"
 
-# End of Extended and Detailed Basic Commands Tutorial
-echo "End of Extended and Detailed Basic Commands Tutorial"
+# End of Tutorial
+echo "End of Tutorial"
