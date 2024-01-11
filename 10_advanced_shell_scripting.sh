@@ -123,5 +123,6 @@ echo "20. Use 'sudo' only when necessary and with caution:"
 sudo echo "This command will be executed with elevated privileges."
 echo "-------------------------------------------------------------"
 
-# End of Advanced and Comprehensive Shell Scripting Tutorial
-echo "End of Advanced and Comprehensive Shell Scripting Tutorial"
+
+# End of Tutorial
+echo "End of Tutorial"
