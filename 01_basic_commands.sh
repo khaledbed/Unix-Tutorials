@@ -1,5 +1,5 @@
 #!/bin/bash
-# Extended and Detailed Basic Commands Tutorial
+#  Basic Commands Tutorial
 
 # Step 1: Introduction and Basics
 echo "Step 1: Introduction and Basics"
