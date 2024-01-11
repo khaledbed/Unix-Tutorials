@@ -1,5 +1,5 @@
 #!/bin/bash
-# Extended and Detailed File System Navigation Tutorial
+# File System Navigation Tutorial
 
 # Step 1: Introduction and Basics
 echo "Step 1: Introduction and Basics"
