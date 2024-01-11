@@ -85,5 +85,6 @@ echo "18. Repeat a command from history (replace Y with the desired command numb
 !Y
 echo "---------------------------------------------"
 
-# End of Extended and Detailed File System Navigation Tutorial
-echo "End of Extended and Detailed File System Navigation Tutorial"
+
+# End of Tutorial
+echo "End of Tutorial"
