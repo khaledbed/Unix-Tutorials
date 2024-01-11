@@ -93,5 +93,6 @@ echo "-------------------------------------------------------------"
 echo "22. Example: Setting up a project in Visual Studio Code."
 echo "-------------------------------------------------------------"
 
-# End of Comprehensive Advanced Text Editors Tutorial
-echo "End of Comprehensive Advanced Text Editors Tutorial"
+
+# End of Tutorial
+echo "End of Tutorial"
