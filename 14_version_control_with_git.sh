@@ -161,5 +161,5 @@ echo "36. Use Git reflog to recover lost commits or branches:"
 git reflog
 echo "-------------------------------------------------------------"
 
-# End of Comprehensive Git Version Control Tutorial
-echo "End of Comprehensive Git Version Control Tutorial"
+# End of Tutorial
+echo "End of Tutorial"
