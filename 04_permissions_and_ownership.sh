@@ -92,5 +92,5 @@ setfacl -m d:u:default_user:rw,d:g:default_group:rx tutorial_directory
 getfacl tutorial_directory
 echo "---------------------------------------------"
 
-# End of Extended and In-Depth Permissions and Ownership Tutorial
-echo "End of Extended and In-Depth Permissions and Ownership Tutorial"
+# End of Tutorial
+echo "End of Tutorial"
