@@ -104,5 +104,6 @@ echo "23. Handle signals in shell scripts and custom applications:"
 trap 'echo Received signal; cleanup_function' SIGHUP SIGINT SIGTERM
 echo "-------------------------------------------------------------"
 
-# End of Advanced Process Management Tutorial
-echo "End of Advanced Process Management Tutorial"
+
+# End of Tutorial
+echo "End of Tutorial"
